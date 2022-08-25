@@ -1,5 +1,9 @@
 # Cryptoguess Backend
 
+This is the source code for the Cryptoguess API.
+
+For software stack see @wafflephi/infra
+
 ## Running and building API
 
 Run the API using `go run main.go`
