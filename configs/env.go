@@ -20,5 +20,5 @@ func EnvAdminPassword() string {
 	if err != nil {
 		log.Fatal("Error loading .env file")
 	}
-	return os.Getenv("AdminPassword")
+	return os.Getenv("ADMINPASSWORD")
 }
